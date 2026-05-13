@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/drawable_card_bg.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/drawable_ic_launcher.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/layout_list_item_two_line.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/layout/list_item_two_line.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/layout_fragment_dashboard.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/layout_fragment_loans.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/layout/fragment_loans.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/layout_activity_login.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/layout_fragment_savings.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/layout/fragment_savings.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/layout_activity_splash.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/menu_main_bottom_nav.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/menu/main_bottom_nav.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/layout_fragment_reports.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/layout/fragment_reports.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/drawable_bg_soft.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/drawable/bg_soft.xml"
+    },
+    {
+        "merged": "com.mindmatrix.mahilashakti-debug-34:/layout_fragment_members.xml.flat",
+        "source": "com.mindmatrix.mahilashakti-main-36:/layout/fragment_members.xml"
+    }
+]

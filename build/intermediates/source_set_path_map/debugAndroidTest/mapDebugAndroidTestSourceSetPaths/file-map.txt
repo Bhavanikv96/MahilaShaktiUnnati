@@ -1,0 +1,4 @@
+com.mindmatrix.mahilashakti.test-androidTest-0 C:\Users\bhava\Desktop\MindMatrix\app\build\generated\res\resValues\androidTest\debug
+com.mindmatrix.mahilashakti.test-mergeDebugAndroidTestResources-1 C:\Users\bhava\Desktop\MindMatrix\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.mindmatrix.mahilashakti.test-mergeDebugAndroidTestResources-2 C:\Users\bhava\Desktop\MindMatrix\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.mindmatrix.mahilashakti.test-debugAndroidTest-3 C:\Users\bhava\Desktop\MindMatrix\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

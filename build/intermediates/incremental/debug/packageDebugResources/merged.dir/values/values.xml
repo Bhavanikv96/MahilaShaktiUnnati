@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#C75B39</color>
+    <color name="primary">#1F7A5C</color>
+    <color name="primary_dark">#15533F</color>
+    <color name="surface">#F6F3EE</color>
+    <color name="text_primary">#1D2521</color>
+    <color name="text_secondary">#617067</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Mahila-Shakti Unnati</string>
+    <string name="login_pin">1234</string>
+    <style name="StatCard">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:background">@drawable/card_bg</item>
+        <item name="android:padding">18dp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Theme.MahilaShakti" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.MahilaShakti.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
